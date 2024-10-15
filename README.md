@@ -25,7 +25,7 @@ cd speech-translation
 Execute the script:
 python3 translator.py
 Follow the on-screen prompts to speak the text you wish to translate and specify the target language.brew install portaudio
-git clone https://github.com/yourusername/speech-translation.git
+git clone
 cd speech-translation
 
 Example Workflow
